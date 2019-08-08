@@ -1,0 +1,36 @@
+h1{
+  color:pink;
+}
+h2{
+  color:white;
+}
+body{
+  background-color: #000958;
+}
+.image-container{
+  height: 450px;
+  width: 2120px;
+  border:10px solid black;
+  object-fit: cover;
+display: flex-wrap}
+
+img{
+  height: 450px;
+  width: 350px;
+}
+
+.image2-container{
+  height: 450px;
+  width: 2120px;
+  border:10px solid black;
+  object-fit: cover;
+  display: flex-wrap
+}
+
+.image3-container{
+  height: 905px;
+  width:2120px;
+  border:10px solid black;
+  object-fit: cover;
+  display: flex-wrap
+}
